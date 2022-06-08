@@ -1,0 +1,24 @@
+{
+    "name": "provapoo",
+    "version": "1.0.0",
+    "description": "Prova de programação orientada objeto Typescript",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "@types/prompt-sync": "^4.1.1",
+      "prompt-sync": "^4.2.0"
+    },
+    "devDependencies": {
+      "@types/node": "^17.0.23",
+      "ts-node": "^8.10.2",
+      "tslib": "^2.3.1",
+      "tslint": "6.1.0",
+      "typescript": "4.3.5"
+    },
+    "keywords": [],
+    "author": "Felipe Wilder de Paiva Lopes @FelipeLopes31",
+    "license": "MIT LICENSE"
+  }
+  
