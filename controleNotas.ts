@@ -27,7 +27,7 @@ export class controleNotas{
     }
     avalicao(pnota: number, snota: number): void{
         this.media = (pnota + snota)/2;
-        if (this.media > 60){
+        if (this.media >= 60){
             console.log('Aprovado✅')
 
         }
